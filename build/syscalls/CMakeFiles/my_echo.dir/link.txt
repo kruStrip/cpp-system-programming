@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/my_echo.dir/echo.cpp.o -o my_echo 

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/my_copy.dir/my_copy.cpp.o -o my_copy 
